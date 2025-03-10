@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "ANEURISM IV Update Downloading",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2832030",
+        "UpdateSourceArgs": "2773280",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Linux",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

@@ -1,9 +1,10 @@
 {
-	"id": "BluetheDrago",
-	"authors": ["Obelix.Gaming"],
-	"origin": "https://github.com/BluetheDrago.git",
-	"url": "https://github.com/BluetheDrago",
-	"imagefile": "",
-	"prefix": "Cheesewheel",
-	"repotype": "AppTemplates"
+    "id": "0a7d0daf-a5b8-430f-bc30-2e3b024e58aa",
+    "authors": [
+        "Obelix.Gaming - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Obelix.Gaming - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Obelix.Gaming - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Obelix.Gaming - Made with AMP Config Generator"
 }
