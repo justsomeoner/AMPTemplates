@@ -5,7 +5,7 @@
         "Offset": 0,
         "Range": 1,
         "Ref": "ApplicationPort1",
-        "Name": "Game Port",
+        "Name": "Game Port UDP",
         "Description": "Server Game Port",
         "ChildPorts": null
     },
@@ -15,7 +15,7 @@
         "Offset": 0,
         "Range": 1,
         "Ref": "ApplicationPort2",
-        "Name": "Steam Port",
+        "Name": "Steam Port UDP",
         "Description": "Steam Query Port",
         "ChildPorts": null
     },
@@ -25,7 +25,7 @@
         "Offset": 0,
         "Range": 1,
         "Ref": "ApplicationPort3",
-        "Name": "Query Port",
+        "Name": "Query Port UDP",
         "Description": "Game Status Port",
         "ChildPorts": null
     },
@@ -34,8 +34,8 @@
         "Port": 7777,
         "Offset": 0,
         "Range": 1,
-        "Ref": "ApplicationPort1",
-        "Name": "Game Port",
+        "Ref": "ApplicationPort4",
+        "Name": "Game Port TCP",
         "Description": "Server Game Port",
         "ChildPorts": null
     },
@@ -44,8 +44,8 @@
         "Port": 7778,
         "Offset": 0,
         "Range": 1,
-        "Ref": "ApplicationPort2",
-        "Name": "Steam Port",
+        "Ref": "ApplicationPort5",
+        "Name": "Steam Port TCP",
         "Description": "Steam Query Port",
         "ChildPorts": null
     },
@@ -54,8 +54,8 @@
         "Port": 7779,
         "Offset": 0,
         "Range": 1,
-        "Ref": "ApplicationPort3",
-        "Name": "Query Port",
+        "Ref": "ApplicationPort6",
+        "Name": "Query Port TCP",
         "Description": "Game Status Port",
         "ChildPorts": null
     }
