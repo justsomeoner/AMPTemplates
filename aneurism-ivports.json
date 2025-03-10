@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "Protocol": "UDP",
+        "Port": 7777,
+        "Offset": 0,
+        "Range": 1,
+        "Ref": "ApplicationPort1",
+        "Name": "Game Port",
+        "Description": "Server Game Port",
+        "ChildPorts": null
+    },
+    {
+        "Protocol": "UDP",
+        "Port": 7778,
+        "Offset": 0,
+        "Range": 1,
+        "Ref": "ApplicationPort2",
+        "Name": "Steam Port",
+        "Description": "Steam Query Port",
+        "ChildPorts": null
+    },
+    {
+        "Protocol": "UDP",
+        "Port": 7779,
+        "Offset": 0,
+        "Range": 1,
+        "Ref": "ApplicationPort3",
+        "Name": "Query Port",
+        "Description": "Game Status Port",
+        "ChildPorts": null
+    },
+  {
+        "Protocol": "TCP",
+        "Port": 7777,
+        "Offset": 0,
+        "Range": 1,
+        "Ref": "ApplicationPort1",
+        "Name": "Game Port",
+        "Description": "Server Game Port",
+        "ChildPorts": null
+    },
+    {
+        "Protocol": "TCP",
+        "Port": 7778,
+        "Offset": 0,
+        "Range": 1,
+        "Ref": "ApplicationPort2",
+        "Name": "Steam Port",
+        "Description": "Steam Query Port",
+        "ChildPorts": null
+    },
+    {
+        "Protocol": "TCP",
+        "Port": 7779,
+        "Offset": 0,
+        "Range": 1,
+        "Ref": "ApplicationPort3",
+        "Name": "Query Port",
+        "Description": "Game Status Port",
+        "ChildPorts": null
+    }
+]
